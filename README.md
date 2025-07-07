@@ -13,10 +13,10 @@ Learning Objectives:
 Assignments:  
 Individually, create a new repository called LeetCode in your personal's Encora Github account (Not in the organization, but using your Encora's email).
 Teamwork: As a team, solve the following leet code problems with Python, Java, and TypeScript programming languages:  
--	Median of Two Sorted Arrays  
-- 	LRU Cache  
--  	Longest Substring Without Repeating Characters
--  	Regular Expression Matching  
+-	<a href='https://leetcode.com/problems/median-of-two-sorted-arrays/' target='_blank' >Median of Two Sorted Arrays</a>  
+- 	<a href='https://leetcode.com/problems/lru-cache/' target='_blank' >LRU Cache</a>  
+-  	<a href='https://leetcode.com/problems/longest-substring-without-repeating-characters/' target='_blank' >Longest Substring Without Repeating Characters</a>
+-  	<a href='https://leetcode.com/problems/regular-expression-matching/' target='_blank' >Regular Expression Matching</a>  
 
 Each team should create one Pull Request in their LeetCode repository for each Programming Language. Put each problem in a different file in the same PR. Example:    
   
