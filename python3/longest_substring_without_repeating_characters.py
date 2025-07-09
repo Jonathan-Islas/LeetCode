@@ -21,6 +21,10 @@
 
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
+        # if string s is empty, return 0
+        if len(s) == 0:
+            return 0
+                
         left = 0 # window's left pointer
         right = 0 # window's right pointer
         max_len = 0
